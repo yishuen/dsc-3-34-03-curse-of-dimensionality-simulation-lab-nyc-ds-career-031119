@@ -9,6 +9,8 @@ __Note: You are advised to read the [additional document on hypercubes](http://w
 
 ## Objectives
 
+You will be able to:
+
 - Understand how dimensionality effects the probability space and the accuracy of each observation
 - Simulate the effect of distance between observations as dimensionality increases
 - Simulate the effect of dimensionality on the volume of hypercubes. 
